@@ -133,3 +133,13 @@ For some instruction on how to go about programming the ATF16V8B with a TL866II 
 ## Known Issues
 * Version 5.1
   * None at present
+ 
+## Open Hardware License
+ 
+You may redistribute and modify this Covered Source, and make products using it, under the terms of the CERN-OHL-P v2 (https:/cern.ch/cern-ohl). This Covered Source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2 for applicable conditions.
+ 
+WARRANTY DISCLAIMED PER 5.1 OF CERN-OHL-P v2.
+ 
+LIABILITY EXCLUDED AND LIMITED PER 5.2 OF CERN-OHL-P v2.
+ 
+See "LICENSE_NOTICES_and_CHANGES.txt" for specific Notices relating to this hardware design.
