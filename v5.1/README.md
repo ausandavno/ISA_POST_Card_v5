@@ -116,7 +116,7 @@ Supply chain distruptions have caused havoc with availability of ICs. Below are 
 
 The ATF16V8B-15PU chip (U9, U10) can be chosen as a substitute to the 74LS47 (U2, U3). The ATF16V8B chip is primarily used to emulate a 74LS47 seven segment display decoder IC with additional/new hex-output functionality. If one would like to be able to see hexadecimal values on the seven-segment displays of the POST card, then the ATF16V8B should be chosen.
 
-The ATF16V8B must be programmed with a ".jed" file. A copy of this file "HEX_TO_7SEG_DECODER_COM_AN_V2.0.jed" has been placed in the "ATF16V8B JED" folder.
+The ATF16V8B must be programmed with a ".jed" file. A copy of this file "HEX_TO_7SEG_DECODER_COM_AN_V2.0.jed" has been placed in the "ATF16V8B_JED" folder.
 
 Refer to my [Hex_To_Seven_Segment_Decoder](https://github.com/ausandavno/Hex_To_Seven_Segment_Decoder/tree/master/COMMON_ANODE_v2.0) repository for associated WinCUPL project files.
 
