@@ -51,7 +51,7 @@ PCB                |           | ISA Post Card v5.1     | 1        | Use supplie
 Integrated Circuit | U1        | 74ALS273 or 74ALS374 (See JP1 Setting)   | 1        | Mouser [SN74ALS273N](https://www.mouser.com/ProductDetail/595-SN74ALS273N) or [SN74ALS374AN](https://www.mouser.com/ProductDetail/595-SN74ALS374AN)
 Integrated Circuit | U2, U3    | 74LS47 (Alternative to U9, U10)   | 2        | Mouser [SN74LS47NE4](https://www.mouser.com/ProductDetail/595-SN74LS47NE4)
 Integrated Circuit | U4, U5    | 74ALS521 or 74HCT688   | 2        | Mouser [SN74ALS521N](https://www.mouser.com/ProductDetail/595-SN74ALS521N) or [CD74HCT688E](https://www.mouser.com/ProductDetail/595-CD74HCT688E)
-Integrated Circuit | U6, U7    | 74HC132                | 2        | Mouser [CD74HC132E](https://www.mouser.com/ProductDetail/595-CD74HC132E)
+Integrated Circuit | U6, U7    | 74HCT132                | 2        | Mouser [CD74HCT132E](https://www.mouser.com/ProductDetail/595-CD74HCT132E)
 Integrated Circuit | U8        | 74LS74                 | 1        | Mouser [SN74LS74AN](https://www.mouser.com/ProductDetail/595-SN74LS74AN)
 Integrated Circuit | U9, U10   | ATF16V8B (Alternative to U2, U3) | 2        | Mouser [ATF16V8B-15PU](https://www.mouser.com/ProductDetail/556-AF16V8B15PU)
 LED    | LED1, LED2   | 7-Segment Display W7.4mm H10mm  | 2        | Mouser [LTS-2801AG](https://www.mouser.com/ProductDetail/859-LTS-2801AG) or [LTS-2801AWC](https://www.mouser.com/ProductDetail/859-LTS-2801AWC)
@@ -77,7 +77,34 @@ Socket **   | Alt for U2, U3 | 16 pin 300 mil DIP socket   | 2    | Mouser [4816
 
 ### Alternative ICs
 
+Supply chain distruptions have caused havoc with availability of ICs. Below are some suggestions for alternative types that are likely to work as substitues to those in the BOM. NOTE: not all alternative chip types or combinations of chip types have been tested. Use caution substituting CMOS types for Bipolar types. Bipolar outputs to CMOS inputs may give issues with voltage levels.
 
+* 74ALS273 Alternatives:
+  * Mouser [SN74LS273N](https://www.mouser.com/ProductDetail/595-SN74LS273N)
+  * Mouser [SN74HCT273N](https://www.mouser.com/ProductDetail/595-SN74HCT273N)
+  * Mouser [CD74ACT273E](https://www.mouser.com/ProductDetail/595-CD74ACT273E)
+
+* 74ALS374 Alternatives:
+  * Mouser [SN74LS374N](https://www.mouser.com/ProductDetail/595-SN74LS374N)
+  * Mouser [SN74F374N](https://www.mouser.com/ProductDetail/595-SN74F374N)
+  * Mouser [SN74HCT374N](https://www.mouser.com/ProductDetail/595-SN74HCT374N)
+  * Mouser [CD74ACT374E](https://www.mouser.com/ProductDetail/595-CD74ACT374E)
+
+* 74ALS521 Alternatives:
+  * Mouser [SN74F521N](https://www.mouser.com/ProductDetail/595-SN74F521N)
+
+* 74HCT688 Alternatives:
+  * Mouser [SN74LS688N](https://www.mouser.com/ProductDetail/595-SN74LS688N)
+  * Mouser [SN74ALS688N](https://www.mouser.com/ProductDetail/595-SN74ALS688N)
+
+* 74HCT132 Alternatives:
+  * Mouser [SN74LS132N](https://www.mouser.com/ProductDetail/595-SN74LS132N)
+
+* 74LS74 Alternatives:
+  * Mouser [SN74ALS74AN](https://www.mouser.com/ProductDetail/595-SN74ALS74AN)
+  * Mouser [SN74F74N](https://www.mouser.com/ProductDetail/595-SN74F74N)
+  * Mouser [CD74HCT74E](https://www.mouser.com/ProductDetail/595-CD74HCT74E)
+  * Mouser [CD74ACT74E](https://www.mouser.com/ProductDetail/595-CD74ACT74E)
 
 ## Firmware Documentation
 
