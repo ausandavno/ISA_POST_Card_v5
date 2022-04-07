@@ -23,6 +23,8 @@ Position | Description
 1-2 closed (default)* | Use 74x273 Series
 2-3 closed | Use 74x374 Series
 
+*Cut trace to open 1-2
+
 #### SW1 - Lowest five bits of address space selection
 Position	| Description
 -------- | -----------
