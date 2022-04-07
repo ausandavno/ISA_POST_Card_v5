@@ -1,0 +1,59 @@
+--------------------------------------------------------------
+GENERAL
+--------------------------------------------------------------
+
+You may redistribute and modify this Covered Source, and make products using it, under the terms of the CERN-OHL-P v2 (https:/cern.ch/cern-ohl). This Covered Source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2 for applicable conditions.
+
+Per 1.6 of CERN-OHL-P v2, 'Notice' means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (subsection 3.3(b)) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.
+
+--------------------------------------------------------------
+NOTICES (INITIAL)
+--------------------------------------------------------------
+
+Copyright of the design materials (Source) for this design ("ISA POST Card v5.1") is held by "ANDAVNO", 2022.
+
+The Covered Source is provided as Open Hardware, Licensed under CERN-OHL-P v2.
+
+For the purposes of CERN-OHL-P v2, the Initial Licensor is "ANDAVNO".
+
+The following Notices are declared by the Initial Licensor:
+
+NOTICE: 
+WARRANTY DISCLAIMED PER 5.1 OF CERN-OHL-P v2.
+LIABILITY EXCLUDED AND LIMITED PER 5.2 OF CERN-OHL-P v2.
+WARRANTY AND LIABILITY NOTICES ARE DECLARED ON BOARD FILE SILKSCREEN LAYERS.
+WARRANTY AND LIABILITY NOTICES ARE DECLARED ON SCHEMATIC FILE(S), ADJACENT TITLE BLOCK(S).
+MODIFIED COVERED SOURCE SHALL NOT USE THE DESIGN NAME "ISA POST CARD v5.1".
+MODIFIED COVERED SOURCE SHALL NOT REFER TO "ANDAVNO" AS THE COPYRIGHT HOLDER.
+ACKNOWLEDGEMENT: BASED ON SCHEMATICS BY SERGEY KISELEV 2012.
+MODIFIED COVERED SOURCE SHALL DECLARE A NOTICE OF ACKNOWLEDGEMENT TO "ANDAVNO".
+MODIFIED COVERED SOURCE SHALL RETAIN ANY EXISTING NOTICES OF ACKNOWLEDGEMENT.
+INFORMATION MAY BE ADDED TO, BUT NOT REMOVED FROM, THIS FILE.
+
+--------------------------------------------------------------
+NOTICES (CHANGES/MODIFICATIONS FROM INITIAL)
+--------------------------------------------------------------
+Per 3.3 b) of CERN-OHL-P v2, You may Convey modified Covered Source (with the effect that You shall
+also become a Licensor) provided that You: b) add a Notice to the modified Covered Source stating that You have modified it, with the date and brief description of how You have modified it.
+
+The remainder of this file is provided as a place to note changes that have been made to the Covered Source by the Licensee become Licensor.
+
+At minimum, the Licensee become Licensor should provide a date that the changes have been made, and a description of those changes. 
+
+--------------------------------------------------------------
+
+Change: <insert change number>
+Date: <insert date>
+Description: <insert description of the change>
+
+--------------------------------------------------------------
+
+Change: <insert change number>
+Date: <insert date>
+Description: <insert description of the change>
+
+--------------------------------------------------------------
+
+etc.
+
+
