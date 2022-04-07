@@ -15,7 +15,7 @@ Constructed board (ignore version number):
 
 [Schematics - Version 5.1 (pdf)](../v5.1/Schematics/ISA_POST_Card_v5.1-Schematic.pdf)
 
-[PCB Layout - Version 5.1 (zip)](../v5.1/PCB_Layout/ISA_POST_Card_v5.1-PCB_Layout.zip)
+[PCB Layout - Version 5.1 (zip)](../v5.1/PCB_Layout/ISA_POST_Card_v5.1-PCB_Layouts.zip)
 
 [Gerbers - Version 5.1 (zip)](../v5.1/Gerbers/ISA_POST_Card_v5.1-Gerbers.zip)
 
