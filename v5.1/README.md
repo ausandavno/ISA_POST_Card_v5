@@ -110,6 +110,18 @@ Supply chain distruptions have caused havoc with availability of ICs. Below are 
 
 ### ATF16V8B
 
+The ATF16V8B-15PU chip (U9, U10) can be chosen as a substitute to the 74LS47 (U2, U3). The ATF16V8B chip is primarily used to emulate a 74LS47 seven segment display decoder IC with additional/new hex-output functionality. If one would like to be able to see hexadecimal values on the seven-segment displays of the POST card, then the ATF16V8B should be chosen.
+
+The ATF16V8B must be programmed with a ".jed" file. A copy of this file "HEX_TO_7SEG_DECODER_COM_AN_V2.0.jed" has been placed in the "ATF16V8B JED" folder.
+
+Refer to my [Hex_To_Seven_Segment_Decoder](https://github.com/ausandavno/Hex_To_Seven_Segment_Decoder/tree/master/COMMON_ANODE_v2.0) repository for associated WinCUPL project files.
+
+Refer to [My website](https://www.andavno.com/?p=672) for an overview of recent changes to the ATF16V8B program.
+
+For some instruction on how to compile the WinCUPL code for the ATF16V8B, please see “How to Compile the Code” section of my post [7 segment display decoder with HEX output](https://www.andavno.com/?p=539).
+
+For some instruction on how to go about programming the ATF16V8B with a TL866II PLUS programmer, please see “Flashing U16” section of my post on [building the Micro 8088](https://www.andavno.com/?p=85).
+
 ## Changes
 * Version 5.1
   * First Issue
