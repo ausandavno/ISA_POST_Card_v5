@@ -1,5 +1,7 @@
 # ISA_POST_Card_v5.1
-Version 5.1 of a plug-in diagnostic card that displays Power On Self Test (POST) codes on an 8-bit ISA data bus. Tested for use with Micro8088 and Xi8088 systems. Can be configured to listen on any address in the lower ten bits of address space. 
+Version 5.1 of a plug-in diagnostic card that displays Power On Self Test (POST) codes on an 8-bit ISA data bus. Tested for use with Micro8088 and Xi8088 systems. Can be configured to listen on any address in the lower ten bits of address space.
+
+<images>
 
 ## Hardware Documentation
 
@@ -7,7 +9,9 @@ Version 5.1 of a plug-in diagnostic card that displays Power On Self Test (POST)
 
 [Schematics - Version 5.1 (pdf)](Schematics/ISA_POST_Card_v5.1-Schematic.pdf)
 
-[PCB Layout - Version 5.1 (zip)](Gerbers/ISA_POST_Card_v5.1-PCB_Layout.zip)
+[PCB Layout - Version 5.1 (zip)](PCB_Layout/ISA_POST_Card_v5.1-PCB_Layout.zip)
+
+[Gerbers - Version 5.1 (zip)](Gerbers/ISA_POST_Card_v5.1-Gerbers.zip)
 
 ### Building Instructions
 
