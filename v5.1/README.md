@@ -61,10 +61,18 @@ Resistor Network   | RN3 - RN6  | R_Array_SIP8 1K (Isolated)   | 4  |  Mouser [L
 Resistor   | R1  | R_Axial_DIN0207 L6.3mm D2.5mm P10.16mm 10K       | 1        | Mouser [MFR-25FRF52-10K](https://www.mouser.com/ProductDetail/603-MFR-25FRF5210K)
 Resistor   | R9, R13  | R_Axial_DIN0207 L6.3mm D2.5mm P10.16mm 1k | 2 | Mouser [MFR-25FRF52-1K](https://www.mouser.com/ProductDetail/MFR-25FRF52-1K)
 Resistor   | R10, R14  | R_Axial_DIN0207 L6.3mm D2.5mm P10.16mm 2.4k | 2 | Mouser [MFR-25FRF52-2K4](https://www.mouser.com/ProductDetail/603-MFR-25FRF52-2K4)
-Capacitor   | C1 - C8  | P5.08mm 0.1uF     | 8        | Mouser [FG28X7R1H104KNT06](https://www.mouser.com/ProductDetail/810-FG28X7R1H104KNT6)
-Capacitor   | C9  | P5.08mm 10uF     | 1        | Mouser [FG24X7R1A106KRT06](https://www.mouser.com/ProductDetail/810-FG24X7R1A106KRT6)
+Capacitor   | C1 - C8  | P5.08mm 0.1uF 50V  | 8        | Mouser [FG28X7R1H104KNT06](https://www.mouser.com/ProductDetail/810-FG28X7R1H104KNT6)
+Capacitor   | C9  | P5.08mm 10uF 10V  | 1        | Mouser [FG24X7R1A106KRT06](https://www.mouser.com/ProductDetail/810-FG24X7R1A106KRT6)
 Switch   | SW1, SW2  | SW_DIP_SPSTx05_Slide 9.78x14.88mm W7.62mm P2.54mm   | 2    | Mouser [CTS 206-5](https://www.mouser.com/ProductDetail/774-2065) or [C&K BD05](https://www.mouser.com/ProductDetail/611-BD05)
+Socket   | for U1, U4, U5 | 20 pin 300 mil DIP socket    | 3    | Mouser [4820-3000-CP](https://www.mouser.com/ProductDetail/517-4820-3000-CP)
+Socket   | for U6, U7, U8 | 14 pin 300 mil DIP socket    | 3    | Mouser [4814-3000-CP](https://www.mouser.com/ProductDetail/517-4814-3000-CP)
+Socket   | for U9, U10 | 10 WAY SIL VERT SKT *           | 4    | Mouser [D01-9971042](https://www.mouser.com/ProductDetail/855-D01-9971042)
+Socket   | for U2, U3 | 8 WAY SIL VERT SKT *             | 4    | Mouser [D01-9970842](https://www.mouser.com/ProductDetail/855-D01-9970842)
+Socket   | Alt for U9, U10 | 20 pin 300 mil DIP socket  ** | 2    | Mouser [4820-3000-CP](https://www.mouser.com/ProductDetail/517-4820-3000-CP)
+Socket   | Alt for U2, U3 | 16 pin 300 mil DIP socket  **  | 2    | Mouser [4816-3000-CP](https://www.mouser.com/ProductDetail/517-4816-3000-CP)
 
+*Recommended to use SIL Sockets instead of DIP sockets if you want to swap between fitting U2, U3 and U9, U10.
+**Use DIP sockets if you are comfortable committing to either U2, U3 or U9, U10. Cannot swap between chip types without removing DIP socket. 
 
 ### Alternative ICs
 
