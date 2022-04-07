@@ -48,7 +48,7 @@ SW2.5 | bit 5 of address space
 Component type     | Reference | Description            | Quantity | Possible sources and notes 
 ------------------ | --------- | ---------------------- | -------- | --------------------------
 PCB                |           | ISA Post Card v5.1     | 1        | Use supplied Gerber or KiCad files to order from your perferred PCB fabrication house
-Integrated Circuit | U1        | 74ALS273 or 74ALS374 (See JP1 Setting)   | 1        | Mouser [SN74ALS273N](https://www.mouser.com/ProductDetail/595-SN74ALS273N) or [SN74ALS374AN](https://www.mouser.com/ProductDetail/595-SN74ALS374AN)
+Integrated Circuit | U1        | 74ALS273 or 74ALS374\n(See JP1 Setting)   | 1        | Mouser [SN74ALS273N](https://www.mouser.com/ProductDetail/595-SN74ALS273N) or [SN74ALS374AN](https://www.mouser.com/ProductDetail/595-SN74ALS374AN)
 Integrated Circuit | U2, U3    | 74LS47                 | 2        | Mouser [SN74LS47NE4](https://www.mouser.com/ProductDetail/595-SN74LS47NE4)
 Integrated Circuit | U4, U5    | 74ALS521 or 74HCT688   | 2        | Mouser [SN74ALS521N](https://www.mouser.com/ProductDetail/595-SN74ALS521N) or [CD74HCT688E](https://www.mouser.com/ProductDetail/595-CD74HCT688E)
 Integrated Circuit | U6, U7    | 74HC132                | 2        | Mouser [CD74HC132E](https://www.mouser.com/ProductDetail/595-CD74HC132E)
