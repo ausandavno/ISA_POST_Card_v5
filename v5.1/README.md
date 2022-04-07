@@ -72,6 +72,7 @@ Socket   | Alt for U9, U10 | 20 pin 300 mil DIP socket  ** | 2    | Mouser [4820
 Socket   | Alt for U2, U3 | 16 pin 300 mil DIP socket  **  | 2    | Mouser [4816-3000-CP](https://www.mouser.com/ProductDetail/517-4816-3000-CP)
 
 *Recommended to use SIL Sockets instead of DIP sockets if you want to swap between fitting U2, U3 and U9, U10.
+
 **Use DIP sockets if you are comfortable committing to either U2, U3 or U9, U10. Cannot swap between chip types without removing DIP socket. 
 
 ### Alternative ICs
