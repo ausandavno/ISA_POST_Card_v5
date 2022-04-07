@@ -54,8 +54,8 @@ Integrated Circuit | U4, U5    | 74ALS521 or 74HCT688   | 2        | Mouser [SN7
 Integrated Circuit | U6, U7    | 74HC132                | 2        | Mouser [CD74HC132E](https://www.mouser.com/ProductDetail/595-CD74HC132E)
 Integrated Circuit | U8        | 74LS74                 | 1        | Mouser [SN74LS74AN](https://www.mouser.com/ProductDetail/595-SN74LS74AN)
 Integrated Circuit | U9, U10   | ATF16V8B               | 2        | Mouser [ATF16V8B-15PU](https://www.mouser.com/ProductDetail/556-AF16V8B15PU)
-Resistor Network   | RN1, RN2  | R_Array_SIP6 10K       | 2        | Mouser [4606M-101-103LF](https://www.mouser.com/ProductDetail/652-4606M-1LF-10K)
-Resistor Network   | RN3, RN4, RN5, RN6  | R_Array_SIP8 1K       | 4        | Mouser [L083S122LF](https://www.mouser.com/ProductDetail/858-L083S122LF)
+Resistor Network   | RN1, RN2  | R_Array_SIP6 10K (Bussed)      | 2        | Mouser [4606M-101-103LF](https://www.mouser.com/ProductDetail/652-4606M-1LF-10K)
+Resistor Network   | RN3, RN4, RN5, RN6  | R_Array_SIP8 1K (Isolated)   | 4    Mouser [L083S122LF](https://www.mouser.com/ProductDetail/858-L083S122LF)
 Resistor   | R1  | R_Axial_DIN0207 L6.3mm D2.5mm P10.16mm 10K       | 1        | Mouser [MFR-25FRF52-10K](https://www.mouser.com/ProductDetail/603-MFR-25FRF5210K)
 
 ## Firmware Documentation
