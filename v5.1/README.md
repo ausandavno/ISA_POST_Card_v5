@@ -25,7 +25,7 @@ Recommend soldering components in order of height, lowest to highest: Resistors 
 
 Recommend populating turned-pin strip headers for U2, U3, U9 and U10. Populate U2, U3 if intending to use seven-segment display driver 74LS47. Populate U9, U10 if intending to use ATF16V8B-15PU to display hexadecimal values.
 
-### Jumpers, Connectors, and Switches
+### Jumpers and Switches
 
 #### JP1 - Select chip options for U1
 Position | Description
